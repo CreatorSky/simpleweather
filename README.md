@@ -9,8 +9,8 @@ Install via pip: `pip install -i https://test.pypi.org/simple/ simpleweather`
    
 >Constructor takes 1 fixed and 1 optional parameter.  
 
- 1. **unit** : 'F' for Fahrenheit (Imperial), 'C' for Celsius (Metric)
- 2. **cords** : default - None, if passed, the weather of the given coordinates is fetched.
+ 1. **unit** (fixed): 'F' for Fahrenheit (Imperial), 'C' for Celsius (Metric) 
+ 2. **cords** (optional): default - None, if passed, the weather of the given coordinates is fetched.
 
  
 >Following are the instance variable which can be called:
