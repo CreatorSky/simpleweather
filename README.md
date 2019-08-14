@@ -4,9 +4,9 @@ A python module to get weather by ip or geo-coordinates.
 
 Install via source: `python setup.py install`  
 Install via pip: `pip install -i https://test.pypi.org/simple/ simpleweather`  
-
-#### Import:  `from simpleweather import Weather`  
-  
+**Import** :  `from simpleweather import Weather`  
+   
+   
 >Constructor takes 1 fixed and 1 optional parameter.  
 
  1. **unit** : 'F' for Fahrenheit (Imperial), 'C' for Celsius (Metric)
